@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/dagur29/chuck_joke)](https://travis-ci.org/dagur29/chuck_joke)
+[![Build Status](https://travis-ci.org/dagur29/chuck_joke.png)](https://travis-ci.org/dagur29/chuck_joke)
 
 # chuck_joke
 (T-303-HUGB, Hugbúnaðarfræði, 2015-3)
